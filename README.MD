@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">📚Currently studying computer engineering at Politecnico di Milano</p>
+<p align="left"> 📚 Currently studying computer engineering at Politecnico di Milano</p>
+<p align="left"> ⚙️ Follow my projects in the pinned section</p>
 
 ###
 
