@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Currently studying computer engineering at Politecnico di Milano</p>
+<p align="left">📚Currently studying computer engineering at Politecnico di Milano</p>
 
 ###
 
@@ -10,7 +10,8 @@
 
 ###
 
-<div align="left" margin-top="10px">
+<div align="left">
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="tensorflow logo"  />
@@ -41,4 +42,4 @@
 <img src="https://github.com/voss01/voss01/blob/main/snake.svg" alt="Snake animation" />
 
 ###
-Profile Readme Generator
+
