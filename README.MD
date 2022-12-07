@@ -16,7 +16,7 @@
 
 ###
 
-<img align="right" height="140" src="https://i.gifer.com/8lmO.gif"  />
+<img align="right" height="140" src="https://github.com/voss01/voss01/blob/main/8lmO.gif"  />
 
 ###
 
@@ -33,6 +33,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/voss01/voss01/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/voss01/voss01/blob/main/snake.svg" alt="Snake animation" />
 
 ###
