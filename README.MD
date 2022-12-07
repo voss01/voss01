@@ -2,15 +2,21 @@
 
 ###
 
-<h4 align="left">📚Currently studying computer engineering at Politecnico di Milano</p>
+<p align="left">📚Currently studying computer engineering at Politecnico di Milano</p>
 
 ###
-
 
 ###
 <dl><dd><dl><dd><dl><dd><dl><dd>
 <img align="right" height="150" src="https://github.com/voss01/voss01/blob/main/8lmO.gif"  />
 </dd></dl></dd></dl></dd></dl></dd></dl>
+&nbsp;
+&nbsp;
+&nbsp;
+
+&nbsp;
+&nbsp;
+&nbsp;
 
 ###
 <dl><dd><dl><dd><dl><dd><dl><dd>
