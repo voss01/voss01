@@ -7,7 +7,7 @@
 ###
 
 <img align="right" height="150" src="https://github.com/voss01/voss01/blob/main/8lmO.gif"  />
-
+---
 ###
 <dl><dd><dl><dd><dl><dd><dl><dd>
 <div align="left">
@@ -22,7 +22,7 @@
 </dd></dl></dd></dl></dd></dl></dd></dl>
 
 ###
-
+---
 <div align="left">
   <a href="https://discordapp.com/users/Voss#9265" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
