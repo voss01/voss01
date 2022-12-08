@@ -8,9 +8,9 @@
 ###
 
 ###
-<dl><dd><dl><dd><dl><dd><dl><dd>
-<img align="right" height="20" src="https://github.com/voss01/voss01/blob/main/8lmO.gif"  />
-</dd></dl></dd></dl></dd></dl></dd></dl>
+<!--<dl><dd><dl><dd><dl><dd><dl><dd>
+<img align="right" height="120" src="https://github.com/voss01/voss01/blob/main/8lmO.gif"  />
+</dd></dl></dd></dl></dd></dl></dd></dl>-->
 
 
 ###
