@@ -16,9 +16,9 @@ jobs:
 
     steps:
       - name: generate snake.svg
-        uses: Platane/snk/svg-only@v2
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: voss01
+          github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
 
 
